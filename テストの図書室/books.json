@@ -17,11 +17,41 @@
       "genre": "数学Ⅰ",
       "pageCount": "P156~P157"
     },
-        {
+    {
       "imageUrl": "IMG_20230620_0009.jpg",
       "title": "③範囲と四分位範囲",
       "genre": "数学Ⅰ",
       "pageCount": "P158~P161"
+    },
+    {
+      "imageUrl": "kokusan621rep3.png",
+      "title": "レポート３表",
+      "genre": "現代の国語",
+      "pageCount": "P86~"
+    },
+    {
+      "imageUrl": "rep3-2.png",
+      "title": "レポート３裏",
+      "genre": "現代の国語",
+      "pageCount": null
+    },
+    {
+      "imageUrl": "kkrep4.png",
+      "title": "レポート４表",
+      "genre": "現代の国語",
+      "pageCount": "P86~"
+    },
+    {
+      "imageUrl": "kkrep4-2.png",
+      "title": "レポート４裏",
+      "genre": "現代の国語",
+      "pageCount": null
+    },
+    {
+      "imageUrl": "su.png",
+      "title": "①約数と倍数",
+      "genre": "数学A",
+      "pageCount": "P64~P67"
     },
     {
       "imageUrl": "IMG_20230620_0011.jpg",
